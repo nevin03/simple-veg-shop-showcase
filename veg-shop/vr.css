@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background: radial-gradient(circle, rgba(232, 249, 243, 1) 0%, rgba(243, 243, 243, 1) 100%, rgba(221, 247, 255, 1) 100%);
+}
+
+.header {
+    background: radial-gradient(circle, rgba(206, 238, 174, 1) 0%, rgba(148, 213, 233, 1) 100%);
+    height: 200px;
+    text-align: center;
+
+}
+
+.header h1 {
+    font-size: 60px;
+
+}
+
+.header h1 {
+    padding-top: 60px;
+    font-family: 'Merienda';
+    color: rgb(209 176 21);
+}
+
+.nav {
+    display: flex;
+    height: 60px;
+    background: linear-gradient(90deg, rgba(157, 228, 130, 1) 4%, rgba(255, 186, 0, 1) 100%, rgba(118, 255, 0, 0.35448765687915795) 100%);
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 190px;
+    float: left;
+    padding-right: 40px;
+    color: steelblue;
+}
+
+
+
+nav a:hover {
+    color: black;
+}
+
+.sec,
+.sec2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 66px;
+}
+
+
+.fruita span,
+.fruitpa span,
+.fruitc span,
+.fruitpear span,
+.fruitplums span,
+.veg1 span,
+.veg2 span,
+.veg3 span,
+.veg4 span,
+.veg5 span {
+    color: #589b58;
+}
+
+.fruitfigs span {
+    color: red;
+}
+
+section h2 {
+    margin-left: 667px;
+}
+
+.headingfruit {
+    color: #d97b88f4;
+    text-align: center;
+    font-family: 'Courgette';
+}
+
+.fruitpa h4,
+.fruitc h4 {
+
+    padding-top: 2px;
+}
+
+#fruitbanana,
+#fruits {
+    width: 174px;
+}
+
+#fruitb {
+    width: 195px;
+}
+
+.fruitplums {
+    margin-right: 90px;
+}
+
+.fruitc,
+.fruitpa,
+.fruita {
+    margin-right: 90px;
+}
+
+#imageplums {
+    width: 198px;
+}
+
+#imagefigs {
+    width: 165px;
+}
+
+.heading2 {
+    color: #30a21ff4;
+    text-align: center;
+    font-family: 'Courgette';
+}
+
+#okraveg,
+#tomatoeveg,
+#pumpkin {
+    width: 174px;
+}
+
+#broccoli {
+    height: 135px;
+    width: 177px;
+}
+
+#carrotveg {
+    width: 195px;
+}
+
+.veg1,
+.veg2,
+.veg3,
+.veg4 {
+    margin-right: 90px;
+}
